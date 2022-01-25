@@ -8,6 +8,7 @@ public class hello
 	public void creatTest()
 	{
 		System.out.println("user 1ST commit");
+		System.out.println("2nd commit");
 	}
 
 }
