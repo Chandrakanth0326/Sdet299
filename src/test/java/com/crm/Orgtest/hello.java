@@ -10,6 +10,7 @@ public class hello
 		System.out.println("user 1ST commit");
 		System.out.println("2nd commit");
 		System.out.println("branch1");
+		System.out.println("user commit");
 	}
 
 }
